@@ -2,6 +2,17 @@
 root="/media/taylor/Data/Linux/Github/crawler"
 cd $root
 date=`date +"%Y-%m-%d"`
+
+
+N=1
+# Increment $N as long as a directory with that name exists
+if [ -d "/home/files/$date-$N" ]; then
+	while [[ -d "/home/files/$date-$N" ]] ; do
+		N=$(($N+1))
+	done
+	date=$date-$N
+fi
+
 path=$root/data/$date
 site=https://proraftingtours.com
 mkdir $path
@@ -9,7 +20,7 @@ mkdir $path
 # httrack  $site -O $path  -%v
 cd $path
 find . -name "*.html"
-find . -name "*.html" -exec curl -v "https://web.archive.org/save/https://{}" ';'
+# find . -name "*.html" -exec curl -v "https://web.archive.org/save/https://{}" ';'
 mkdir ../current
 cp $path/* -r $root/data/current
 cd $root

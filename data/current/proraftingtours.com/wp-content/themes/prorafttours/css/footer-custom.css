@@ -1,0 +1,194 @@
+
+.col-full
+{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.copyright
+{
+  text-align: center;
+  font-size: 0.75em;
+  margin: 2em 0;
+}
+#FooterAddress, #FooterPhoneNumber
+{
+  text-align: center;
+  margin-bottom: 0.25em;
+}
+#FooterDisclaimerSection
+{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 2em;
+}
+#FooterForm input[type="text"], #FooterForm input[type="email"], #FooterForm input[type="url"],
+#FooterForm input[type="password"], #FooterForm input[type="search"], #FooterForm input[type="number"],
+#FooterForm input[type="tel"], #FooterForm input[type="range"], #FooterForm input[type="date"],
+#FooterForm input[type="month"], #FooterForm input[type="week"], #FooterForm input[type="time"],
+#FooterForm input[type="datetime"], #FooterForm input[type="datetime-local"], #FooterForm input[type="color"],
+#FooterForm textarea
+{
+	padding: 0.25em 1em;
+  max-width: 70%;
+}
+#FooterForm button, #FooterForm input[type="button"], #FooterForm input[type="reset"],
+#FooterForm input[type="submit"]
+{
+  padding: 0.85em 1em;
+  margin-left: 1em;
+}
+#FooterForm button:hover, #FooterForm input[type="button"]:hover, #FooterForm input[type="reset"]:hover,
+#FooterForm input[type="submit"]:hover
+{
+  cursor: pointer;
+}
+#FooterLogo
+{
+  margin:auto;
+}
+#FooterLogoDiv
+{
+  text-align: center;
+  margin: 2em 0;
+}
+#FooterForm
+{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+#FooterForm .wpcf7
+{
+  max-width: 100%;
+}
+#FooterForm form p
+{
+  margin: 1em 0;
+  max-width: 100%;
+}
+#FooterFormIntro
+{
+  text-align: right;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+#FooterFormIntro h3
+{
+  margin: 0;
+  font-size: 1.25em;
+}
+#FooterIcon
+{
+  height: 3em;
+  width: 3em;
+  margin: 0 1em;
+}
+#FooterNavigation
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding:0;
+  margin:0;
+  margin-top: 2em;
+  margin-bottom: 4em;
+}
+.footer-navigation-item
+{
+  display: inline-block;
+  margin: 1em;
+  padding: 0.25em 1em;
+  text-align: center;
+  border-radius: 10px;
+}
+.footer-navigation-item:hover
+{
+  cursor: pointer;
+}
+.footer-navigation-item a
+{
+}
+.footer-navigation-item a:hover
+{
+  text-decoration: none;
+}
+.media-icon
+{
+  font-size: 2rem;
+  width: 3rem;
+  text-align: center;
+  border-radius: 5px;
+}
+.media-icon:hover
+{
+  cursor: pointer!important;
+  background: black;
+}
+.site-footer
+{
+  padding-bottom: 70px;
+}
+#SiteFooter
+{
+  background-position: 0 25%!important;
+  background-size: cover!important;
+  background-repeat: no-repeat!important;
+}
+
+@media screen and (max-width: 992px)
+{
+  #FooterForm
+  {
+    margin-bottom: 1em;
+  }
+  #FooterForm form
+  {
+    text-align: center;
+  }
+  #FooterFormIntro, #FooterForm
+  {
+    justify-content: center;
+  }
+  #FooterFormIntro
+  {
+    margin-top: 1em;
+  }
+  #FooterFormIntro h3
+  {
+    text-align: center;
+  }
+}
+@media screen and (max-width: 768px)
+{
+  #FooterDisclaimer
+  {
+    text-align: center;
+  }
+  #FooterDisclaimerSection
+  {
+    flex-direction: column;
+  }
+  #FooterIcon
+  {
+    margin: 1em 0;
+    height: 5em;
+    width: 5em;
+  }
+  #FooterNavigation
+  {
+    display: block;
+  }
+  .footer-navigation-item
+  {
+    display: block;
+  }
+  #SiteFooter
+  {
+    background-position:left!important;
+  }
+}
