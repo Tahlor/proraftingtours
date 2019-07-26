@@ -19,14 +19,19 @@ path=$data/$date
 site="https://proraftingtours.com"
 mkdir $path
 # wget -m $site -P $path -r
-httrack  $site -O $path  -%v
-cd $path
-#find . -name "*.html"
-find . -name "*.html" -exec curl -v "https://web.archive.org/save/https://{}" ';'
-mkdir ../current
-cp $path/* -r $root/data/current
+# httrack  $site -O $path  -%v
+
+rm -r $data/current
+mkdir $data/current
+cp $path/* -r $data/current
 cd $root
 
 git add .
 git commit -m "Update $date"
 git push
+
+cd $path
+# Submit main page
+# curl -v "https://web.archive.org/save/$site"
+# find . -name "*.html" -exec curl -v "https://web.archive.org/save/https://{}" ';'
+
