@@ -1,0 +1,107 @@
+
+.col-full
+{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+#AboutUsDescription
+{
+  max-width: 768px;
+  margin: 1em auto;
+  text-align: center;
+}
+#AboutUsIntroduction
+{
+  font-size: 1em;
+  text-align: center;
+  margin-bottom: 2em;
+}
+#AboutUsTitle
+{
+  text-align: center;
+  margin: 2em 0;
+  font-weight: 600;
+}
+#HeroSection
+{
+  background-position: center!important;
+  background-size: cover!important;
+  padding: 20em 0;
+}
+#KayakingPhotos
+{
+  margin: 5em 0;
+}
+#KayakPhotosTitle
+{
+  text-align: center;
+  margin: 1em 0;
+  font-weight: 600;
+}
+.MasonryColumns
+{
+  column-gap: 0.1rem;
+}
+.MasonryImage
+{
+  padding:0;
+}
+.MasonryImage:hover
+{
+  cursor: pointer;
+}
+.MasonryImage img
+{
+  display:inline-block;
+  border-radius: 5px;
+}
+.MasonryModal
+{
+  margin-top: 2em;
+}
+.MasonryModalDescription
+{
+  padding:0 2em;
+}
+.MasonryModalClose
+{
+  position: absolute;
+  right: 0;
+  top:0;
+  background: transparent;
+}
+.MasonryModalClose:hover
+{
+  cursor: pointer;
+}
+.MasonryModalContent
+{
+  position: relative;
+  padding: 0 1em;
+}
+.MasonryModalImage
+{
+  width:100%;
+}
+.MasonryModalImage img
+{
+  margin:0 auto;
+  border-radius: 10px;
+  margin-bottom:1em;
+}
+.MasonryModalTitle
+{
+  padding: 1em 0 0 ;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 1.75em;
+  text-align: center;
+}
+.MasonryProduct
+{
+  display:inline-block;
+  padding: 0.25em;
+  margin-bottom: 0.1rem!important;
+}
