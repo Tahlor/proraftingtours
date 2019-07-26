@@ -4,7 +4,7 @@ cd $root
 data="$root/data"
 date=`date +"%Y-%m-%d"`
 
-N=2
+N=1
 
 # Increment $N as long as a directory with that name exists
 if [ -d "$data/$date" ]; then
