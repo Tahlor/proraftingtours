@@ -1,13 +1,13 @@
 #!/bin/bash
 root="/media/taylor/Data/Linux/Github/crawler"
 cd $root
+data="$root/data"
 date=`date +"%Y-%m-%d"`
-
 
 N=1
 # Increment $N as long as a directory with that name exists
-if [ -d "/home/files/$date-$N" ]; then
-	while [[ -d "/home/files/$date-$N" ]] ; do
+if [ -d "$data/$date-$N" ]; then
+	while [[ -d "$data/$date-$N" ]] ; do
 		N=$(($N+1))
 	done
 	date=$date-$N
