@@ -4,17 +4,18 @@ cd $root
 data="$root/data"
 date=`date +"%Y-%m-%d"`
 
-N=1
+N=2
+
 # Increment $N as long as a directory with that name exists
-if [ -d "$data/$date-$N" ]; then
-	while [[ -d "$data/$date-$N" ]] ; do
+if [ -d "$data/$date" ]; then
+	while [[ -d "$data/$date" ]] ; do
 		N=$(($N+1))
+		date=`date +"%Y-%m-%d"`_$N
 	done
-	date=$date-$N
 fi
 
-path=$root/data/$date
-site=https://proraftingtours.com
+path=$data/$date
+site="https://proraftingtours.com"
 mkdir $path
 # wget -m $site -P $path -r
 # httrack  $site -O $path  -%v
@@ -24,6 +25,7 @@ find . -name "*.html"
 mkdir ../current
 cp $path/* -r $root/data/current
 cd $root
+
 git add .
 git commit -m "Update $date"
 git push
