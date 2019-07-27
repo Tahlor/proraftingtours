@@ -1,0 +1,187 @@
+.hideNav
+{
+  display: none;
+}
+.dropdown-icon
+{
+  transition: 0.5s;
+  position: absolute;
+  right: 5%;
+  top:25%;
+}
+.dropdown-item
+{
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.dropdown-menu
+{
+  margin-top:-.05em;
+  padding-top: 0;
+  padding-bottom: 0;
+  border: none;
+}
+.dropdown.show .dropdown-icon
+{
+  transform: rotate(180deg);
+}
+.main-navbar-nav
+{
+  display: block;
+}
+
+.middle-nav .main-navbar-nav
+{
+  display: block!important;
+  margin:auto;
+}
+.menu-item
+{
+  display: inline-block;
+  margin: 0 0.5em;
+}
+
+.menu-item-a.active
+{
+  border-bottom: 1px solid white;
+}
+.menu-item-a
+{
+  font-weight: normal;
+}
+.menu-item-a.menu-item-button
+{
+  padding-left: 1em!important;
+  padding-right: 1em!important;
+}
+.navBrandRight
+{
+  float:right;
+}
+#navbarLogo
+{
+  margin-right: 0;
+}
+.navbar-nav
+{
+  margin-left: 0;
+  width: 100%;
+}
+.navbar-row
+{
+  min-width: 100%;
+  margin: 0 -15px!important;
+}
+.navContainer
+{
+  position: relative;
+  /* padding: 0!important */
+}
+.navbar-toggler
+{
+  position: absolute;
+  border: none;
+  bottom:0%;
+  right: 0%;
+}
+.navbar-toggler-icon:focus, .navbar-toggler:focus
+{
+  outline: none;
+}
+
+.navbar-toggler.collapsed .navbar-toggler-icon-open
+{
+  display:none;
+}
+.navbar-toggler.collapsed .navbar-toggler-icon-closed
+{
+  display: block;
+}
+.navbar-toggler .navbar-toggler-icon-closed
+{
+  display: none;
+}
+
+.navRow
+{
+  width:100%;
+}
+.middle-nav-mobile
+{
+  width: 100%;
+}
+@media screen and (min-width:768px)
+{
+
+  .dropdown-icon
+  {
+    display: none!important;
+  }
+  .menu-item.dropdown:hover .dropdown-menu
+  {
+    display: block!important;
+  }
+  .main-menu-sub-item
+  {
+    display: none;
+  }
+  .navRightMobile
+  {
+    display:none;
+  }
+  .middle-nav-mobile
+  {
+    display: none;
+  }
+  #SideLogo
+  {
+    display: none;
+  }
+}
+@media screen and (max-width:768px)
+{
+  .side-logo
+  {
+    display: none;
+  }
+  .custom-navigation
+  {
+    position: relative!important;
+    display: block;
+  }
+  .dropdown-menu
+  {
+    margin:0 11px
+  }
+  .menu-item
+  {
+    display: block;
+  }
+  .middle-nav
+  {
+    display: none;
+  }
+  .navbar-brand
+  {
+    max-width: 80%
+  }
+  .navbar-nav
+  {
+    margin-top: 1em;
+  }
+  .navbar-row
+  {
+    margin: 0!important;
+  }
+  .navRightDesktop
+  {
+    display: none;
+  }
+  .navRightMobile
+  {
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+    display: -ms-flexbox!important;
+    display: flex!important;
+  }
+}

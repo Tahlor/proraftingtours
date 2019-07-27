@@ -1,0 +1,136 @@
+#ModalContentDiv {
+    padding: 1em .5em;
+    background: #041728;
+    border: #FFF solid 7px;
+}
+#wpcf7-f2138-o3 {
+
+}
+#ModalContentDiv [id^="wpcf7-"] label {
+    width: 100%;
+}
+#ContactUsModalHeader {
+    color: #ffffff;
+    width: 100%;
+}
+#ModalContentDiv [id^="wpcf7-"] input {
+    width: 100%;
+    margin: 0em;
+    padding: .5em;
+    font-size: 1.5em;
+}
+#ModalContentDiv [id^="wpcf7-"] input[type="submit"] {
+    width: 100%;
+    margin: 1em 0em;
+    color: #FFF;
+    box-shadow: none;
+    border: none;
+    padding: .5em 0em;
+    font-size: 1.2em;
+    background: #CE3136;
+    text-transform: uppercase;
+    border-radius: .8em;
+}
+#ModalContentDiv [id^="wpcf7-"] input[type="submit"]:hover{
+	background: #FFF;
+    color:#CE3136;
+}
+.modal-header .close {
+    position: absolute;
+    top:0;
+    right:1em;
+    background: grey;
+    text-shadow: none;
+    box-shadow: none;
+    padding: .2em .4em;
+    color: #fff;
+    opacity: 100;
+}
+#ModalContentDiv [id^="wpcf7-"] textarea {
+    width: 100%;
+    padding: 1em;
+}
+#ModalContentDiv [id^="wpcf7-"] .modal-title {
+    margin: 0;
+    line-height: @modal-title-line-height;
+    color: #FFF;
+}
+#ModalContentDiv [id^="wpcf7-"] button.close {
+    color: #d2d2d2 !important;
+    background: #000 !important;
+    padding: .2em .5em;
+    text-shadow: none;
+}
+#ModelContentDiv > div.modal-header > button > span {
+    color: #d2d2d2;
+    background: #000;
+    padding: .2em .5em;
+    text-shadow: none;
+}
+#BottomStickyBar {
+    background: #082d4f8f;
+    display: block;
+    position: fixed;
+    width: 100%;
+    bottom: 0%;
+    z-index: 999;
+    left: 0%;
+    text-align: center;
+    padding: 1em 0em;
+    border-top: 1px solid #082d4f;
+}
+#BottomStickyBar .close {
+    float: right;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-shadow: 0 1px 0 #fff;
+    filter: alpha(opacity=20);
+    background: #757575 !important;
+    padding: .3em .5em !important;
+}
+#ContactSticky {
+    top:115px;
+}
+#StickyRequestButton {
+    background: #ce3136;
+    text-shadow: none;
+    box-shadow: none;
+    border: 1px solid #FFF;
+    color: #FFF;
+}
+#StickyRequestButton:hover {
+    background: #fff;
+    color: #ce3136;
+    border: solid .1em #ce3136;
+}
+#ModalContentDiv [id^="wpcf7-"] ::-webkit-input-placeholder { /* WebKit browsers */
+    color: #bbbbbb !important;
+    opacity: 1;
+}
+
+#ModalContentDiv [id^="wpcf7-"] :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #bbbbbb !important;
+    opacity: 1;
+}
+#ModalContentDiv [id^="wpcf7-"] ::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #bbbbbb !important;
+    opacity: 1;
+}
+#ModalContentDiv [id^="wpcf7-"] :-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: #bbbbbb !important;
+    opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+    #ContactSticky {
+        top: 80px
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #ContactSticky {
+        top: 40px
+    }
+}

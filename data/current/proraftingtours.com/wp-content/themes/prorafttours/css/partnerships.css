@@ -1,0 +1,21 @@
+.col-full
+{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.partner-logo
+{
+  height: 15em;
+  width: 100%;
+  object-fit: contain;
+  margin: 1em 0;
+  object-position: center;
+}
+#PartnershipsTitle
+{
+  text-align: center;
+  font-weight: 600;
+  margin: 1em 0;
+}

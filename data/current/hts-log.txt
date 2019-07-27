@@ -1,0 +1,260 @@
+HTTrack3.49-2 launched on Sat, 27 Jul 2019 14:58:34 at https://proraftingtours.com
+(httrack https://proraftingtours.com -O ./data/2019-07-27_2 -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:58:36	Warning: 	Note: due to https://proraftingtours.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:08:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://proraftingtours.com/wp-content/uploads/siteorigin-widgets/sow-hero-default-dc196bcc6138.css?ver=5.1.1
+15:10:46	Error: 	"Not Found" (404) at link https://proraftingtours.com/wp-content/themes/storefront/js/navigation.js?ver=20151215 (from https://proraftingtours.com/)
+15:10:46	Error: 	"Not Found" (404) at link https://proraftingtours.com/wp-content/themes/storefront/js/skip-link-focus-fix.js?ver=20151215 (from https://proraftingtours.com/)
+15:10:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/css/slider/fonts/slider.ttf?8p86w5
+15:10:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/wp-gotowebinar/inc/fonts/fontawesome-webfont.woff2?v=4.7.0
+15:10:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/wp-gotowebinar/inc/fonts/fontawesome-webfont.ttf?v=4.7.0
+15:10:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/themes/storefront/assets/fonts/fa-solid-900.woff2
+15:10:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/themes/storefront/assets/fonts/fa-solid-900.ttf
+15:10:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+15:10:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=390
+15:10:46	Warning: 	File has moved from https://proraftingtours.com/?p=390 to https://proraftingtours.com/cart/
+15:11:14	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1247
+15:11:14	Warning: 	File has moved from https://proraftingtours.com/?p=1247 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/
+15:11:27	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1273
+15:11:27	Warning: 	File has moved from https://proraftingtours.com/?p=1273 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/all-inclusive-amenities/
+15:11:27	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1383
+15:11:27	Warning: 	File has moved from https://proraftingtours.com/?p=1383 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/attractions-things-to-do/
+15:11:45	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1190
+15:11:45	Warning: 	File has moved from https://proraftingtours.com/?p=1190 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/special-retreats/
+15:12:08	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1388
+15:12:08	Warning: 	File has moved from https://proraftingtours.com/?p=1388 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/daily-itinerary-schedule/
+15:12:08	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1392
+15:12:08	Warning: 	File has moved from https://proraftingtours.com/?p=1392 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/trip-planner-prepare-for-vacation/
+15:12:08	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1396
+15:12:08	Warning: 	File has moved from https://proraftingtours.com/?p=1396 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/camp-life/
+15:12:12	Warning: 	Moved Permanently for https://proraftingtours.com/?p=697
+15:12:12	Warning: 	File has moved from https://proraftingtours.com/?p=697 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/
+15:12:38	Warning: 	Moved Permanently for https://proraftingtours.com/?p=820
+15:12:38	Warning: 	File has moved from https://proraftingtours.com/?p=820 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/guided-trips/
+15:13:00	Warning: 	Moved Permanently for https://proraftingtours.com/?p=824
+15:13:00	Warning: 	File has moved from https://proraftingtours.com/?p=824 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/self-guided-rentals/
+15:13:16	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1413
+15:13:16	Warning: 	File has moved from https://proraftingtours.com/?p=1413 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/rafting-kayaking-training/adult/
+15:13:37	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1474
+15:13:37	Warning: 	File has moved from https://proraftingtours.com/?p=1474 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/rafting-kayaking-training/youth/group/
+15:13:41	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1131
+15:13:41	Warning: 	File has moved from https://proraftingtours.com/?p=1131 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/rafting-kayaking-training/youth/boy-scouts-whitewater-kayaking-merit-badge/
+15:13:41	Warning: 	Moved Permanently for https://proraftingtours.com/?p=828
+15:13:41	Warning: 	File has moved from https://proraftingtours.com/?p=828 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/guided-trips/zipline/
+15:13:41	Warning: 	Moved Permanently for https://proraftingtours.com/?p=830
+15:13:41	Warning: 	File has moved from https://proraftingtours.com/?p=830 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/guided-trips/catering/
+15:13:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1423
+15:13:46	Warning: 	File has moved from https://proraftingtours.com/?p=1423 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/rafting-kayaking-training/youth/high-adventure/
+15:13:52	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1606
+15:13:52	Warning: 	File has moved from https://proraftingtours.com/?p=1606 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/guided-trips/outdoor-classroom-river-rafting-kayaking-camping-provo-kern/
+15:13:58	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1128
+15:13:58	Warning: 	File has moved from https://proraftingtours.com/?p=1128 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/
+15:14:22	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1140
+15:14:22	Warning: 	File has moved from https://proraftingtours.com/?p=1140 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/guided-trips/
+15:14:40	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1145
+15:14:40	Warning: 	File has moved from https://proraftingtours.com/?p=1145 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/self-guided-rentals/
+15:14:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1167
+15:14:59	Warning: 	File has moved from https://proraftingtours.com/?p=1167 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/self-guided-rentals/kern-river-camping/
+15:14:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1171
+15:14:59	Warning: 	File has moved from https://proraftingtours.com/?p=1171 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/guided-trips/catering/
+15:14:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=3191
+15:14:59	Warning: 	File has moved from https://proraftingtours.com/?p=3191 to https://proraftingtours.com/outdoor-adventures/river-trips/services/
+15:15:03	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1193
+15:15:03	Warning: 	File has moved from https://proraftingtours.com/?p=1193 to https://proraftingtours.com/outdoor-adventures/river-trips/guided-white-water-rafting-trips/
+15:15:03	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1481
+15:15:03	Warning: 	File has moved from https://proraftingtours.com/?p=1481 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/river-gear-rentals/
+15:15:22	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1582
+15:15:22	Warning: 	File has moved from https://proraftingtours.com/?p=1582 to https://proraftingtours.com/exploratory-private-whitewater-trips/
+15:15:29	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1495
+15:15:29	Warning: 	File has moved from https://proraftingtours.com/?p=1495 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/all-states/us-rivers/catering/
+15:15:29	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1603
+15:15:29	Warning: 	File has moved from https://proraftingtours.com/?p=1603 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/all-states/us-rivers/raft-kayak-camp-gear-repair/
+15:15:29	Warning: 	Moved Permanently for https://proraftingtours.com/?p=3104
+15:15:29	Warning: 	File has moved from https://proraftingtours.com/?p=3104 to https://proraftingtours.com/outdoor-adventures/river-trips/training-consultation/
+15:15:29	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1648
+15:15:29	Warning: 	File has moved from https://proraftingtours.com/?p=1648 to https://proraftingtours.com/outdoor-adventures/adventure-guides/
+15:15:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2930
+15:15:50	Warning: 	File has moved from https://proraftingtours.com/?p=2930 to https://proraftingtours.com/outdoor-adventures/river-trips/blog/
+15:15:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=806
+15:15:50	Warning: 	File has moved from https://proraftingtours.com/?p=806 to https://proraftingtours.com/contact-us/
+15:15:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=3268
+15:15:50	Warning: 	File has moved from https://proraftingtours.com/?p=3268 to https://proraftingtours.com/raft-kayak-river-gear-sale/
+15:15:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1409
+15:15:50	Warning: 	File has moved from https://proraftingtours.com/?p=1409 to https://proraftingtours.com/raft-kayak-training/
+15:15:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1758
+15:15:59	Warning: 	File has moved from https://proraftingtours.com/?p=1758 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/self-guided-rentals/tubing/
+15:15:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1755
+15:15:59	Warning: 	File has moved from https://proraftingtours.com/?p=1755 to https://proraftingtours.com/outdoor-adventures/river-trips/adventure-now-contact-us/
+15:15:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1673
+15:15:59	Warning: 	File has moved from https://proraftingtours.com/?p=1673 to https://proraftingtours.com/outdoor-adventures/river-trips/privacy-policy/
+15:15:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1677
+15:15:59	Warning: 	File has moved from https://proraftingtours.com/?p=1677 to https://proraftingtours.com/outdoor-adventures/river-trips/safety-policy/
+15:15:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1684
+15:15:59	Warning: 	File has moved from https://proraftingtours.com/?p=1684 to https://proraftingtours.com/outdoor-adventures/river-trips/frequently-asked-questions/
+15:15:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1680
+15:15:59	Warning: 	File has moved from https://proraftingtours.com/?p=1680 to https://proraftingtours.com/outdoor-adventures/river-trips/terms-and-conditions/
+15:15:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1687
+15:15:59	Warning: 	File has moved from https://proraftingtours.com/?p=1687 to https://proraftingtours.com/outdoor-adventures/river-trips/partners-partnership/
+15:15:59	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1695
+15:15:59	Warning: 	File has moved from https://proraftingtours.com/?p=1695 to https://proraftingtours.com/outdoor-adventures/river-trips/employment/
+15:15:59	Error: 	"Method Not Allowed" (405) at link https://proraftingtours.com/xmlrpc.php (from https://proraftingtours.com/shop/)
+15:16:06	Warning: 	Found for https://proraftingtours.com/checkout/
+15:16:06	Warning: 	File has moved from https://proraftingtours.com/checkout/ to https://proraftingtours.com/cart/
+15:18:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/widgets/features/css/fonts/feature-background.ttf
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1610
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1610 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/quote-pricing/
+15:18:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-brands-400.woff2
+15:18:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-brands-400.ttf
+15:18:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-regular-400.woff2
+15:18:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-regular-400.ttf
+15:18:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-solid-900.woff2
+15:18:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-solid-900.ttf
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1614
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1614 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/special-retreats/quote-survey-1/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1632
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1632 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/special-retreats/quote-survey-4/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1628
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1628 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/special-retreats/quote-survey-3/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1621
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1621 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/main-salmon-river-guided-whitewater-vacations/special-retreats/quote-survey-2/
+15:18:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/icons/ionicons/font/ionicons.ttf?v=2.0.0
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1550
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1550 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/quote-information-3/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=878
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=878 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/rafting-kayaking-training/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1543
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1543 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/quote-information-1/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1545
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1545 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/quote-information-2/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1734
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1734 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/guided-trips/rafting/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1736
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1736 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/guided-trips/kayaking/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1751
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1751 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/guided-trips/large-groups-parties/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2701
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=2701 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/guided-trips/sunset-night-trips/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1741
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1741 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/self-guided-rentals/rafts/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1746
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1746 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/self-guided-rentals/kayaks/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1565
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1565 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/quote-training-provo-kern-1/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1431
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1431 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/rafting-kayaking-training/adult/provo-river-kern-river/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1434
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1434 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/rafting-kayaking-training/adult/multi-day-trip-training/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1572
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1572 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/quote-training-provo-kern-2/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1585
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1585 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/quote-training-provo-kern-3/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1600
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1600 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/all-states/us-rivers/catering/quote-picnics-bbq-meals-2/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1589
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1589 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/all-states/us-rivers/catering/quote-picnics-bbq-meals-1/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1576
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1576 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/river-gear-rentals/quote-rentals-repair-river-camping-equipment/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1555
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1555 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/quote-information-1/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1150
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1150 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/rafting-kayaking-training/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1558
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1558 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/quote-information-2/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1563
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1563 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/quote-information-3/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1738
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1738 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/guided-trips/rafting/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1739
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1739 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/guided-trips/kayaking/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1753
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1753 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/guided-trips/large-groups-parties/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1763
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1763 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/self-guided-rentals/tubing/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1743
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1743 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/self-guided-rentals/rafts/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1748
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1748 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/kern-river/self-guided-rentals/kayaks/
+15:18:46	Warning: 	File not parsed, looks like binary: https://proraftingtours.com/wp-content/plugins/so-widgets-bundle/icons/icomoon/font/icomoon.ttf?kbir8s
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1484
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1484 to https://proraftingtours.com/outdoor-adventures/river-trips/explore-rivers/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1592
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1592 to https://proraftingtours.com/exploratory-private-whitewater-trips/application/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1659
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1659 to https://proraftingtours.com/outdoor-adventures/adventure-guides/donny-hazard/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1667
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1667 to https://proraftingtours.com/outdoor-adventures/adventure-guides/sam-mourik/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1663
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1663 to https://proraftingtours.com/outdoor-adventures/adventure-guides/cherry-hazard/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1671
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1671 to https://proraftingtours.com/outdoor-adventures/adventure-guides/provo-kern-river-team/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1665
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1665 to https://proraftingtours.com/outdoor-adventures/adventure-guides/don-n-hazard/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1669
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1669 to https://proraftingtours.com/outdoor-adventures/adventure-guides/main-salmon-river-team/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1419
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=1419 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/provo-river/rafting-kayaking-training/youth/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=416
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=416 to https://proraftingtours.com/sample-river/
+15:18:46	Warning: 	Moved Permanently for https://proraftingtours.com/?p=392
+15:18:46	Warning: 	File has moved from https://proraftingtours.com/?p=392 to https://proraftingtours.com/my-account/
+15:18:49	Warning: 	Moved Permanently for https://proraftingtours.com/?p=277
+15:18:49	Warning: 	File has moved from https://proraftingtours.com/?p=277 to https://proraftingtours.com/trip-photos/
+15:18:49	Warning: 	Moved Permanently for https://proraftingtours.com/?p=235
+15:18:49	Warning: 	File has moved from https://proraftingtours.com/?p=235 to https://proraftingtours.com/youth-programs/
+15:18:49	Warning: 	Moved Permanently for https://proraftingtours.com/?p=213
+15:18:49	Warning: 	File has moved from https://proraftingtours.com/?p=213 to https://proraftingtours.com/about-us/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=120
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=120 to https://proraftingtours.com/expectations/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=20
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=20 to https://proraftingtours.com/home/
+15:18:50	Error: 	"Not Found" (404) at link https://proraftingtours.com/?p=1 (from https://proraftingtours.com/home/)
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=520
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=520 to https://proraftingtours.com/beginners-river-skills-course/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=541
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=541 to https://proraftingtours.com/training/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=636
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=636 to https://proraftingtours.com/photos/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=695
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=695 to https://proraftingtours.com/test/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1427
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=1427 to https://proraftingtours.com/test-mailchimp/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1535
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=1535 to https://proraftingtours.com/quote-form-template/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1570
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=1570 to https://proraftingtours.com/test-opt-in/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=3050
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=3050 to https://proraftingtours.com/outdoor-adventures/river-trips/river-tubing/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=3052
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=3052 to https://proraftingtours.com/outdoor-adventures/river-trips/river-rafting/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2897
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=2897 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2910
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=2910 to https://proraftingtours.com/outdoor-adventures/river-trips/international/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=3054
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=3054 to https://proraftingtours.com/outdoor-adventures/river-trips/river-kayaking/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=1639
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=1639 to https://proraftingtours.com/opt-in-90-days-to-being-vacation-fit/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2865
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=2865 to https://proraftingtours.com/outdoor-adventures/river-trips/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2916
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=2916 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/all-states/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2915
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=2915 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/california/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2914
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=2914 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/idaho/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2913
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=2913 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/utah/
+15:18:50	Warning: 	Moved Permanently for https://proraftingtours.com/?p=2917
+15:18:50	Warning: 	File has moved from https://proraftingtours.com/?p=2917 to https://proraftingtours.com/outdoor-adventures/river-trips/international/united-states/all-states/us-rivers/
+15:18:53	Warning: 	Moved Permanently for https://proraftingtours.com/?p=418
+15:18:53	Warning: 	File has moved from https://proraftingtours.com/?p=418 to https://proraftingtours.com/product/provo-river/
+15:18:53	Warning: 	Moved Permanently for https://proraftingtours.com/?p=393
+15:18:53	Warning: 	File has moved from https://proraftingtours.com/?p=393 to https://proraftingtours.com/product/test/
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 22 seconds : 1306 links scanned, 1187 files written (143852783 bytes overall) [133623862 bytes received at 109348 bytes/sec], 13638842 bytes transferred using HTTP compression in 445 files, ratio 19%, 9.8 requests per connection
+(4 errors, 245 warnings, 0 messages)
