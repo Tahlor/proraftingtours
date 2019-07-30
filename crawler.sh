@@ -15,15 +15,21 @@ if [ -d "$data/$date" ]; then
 	done
 fi
 
-path=$data/$date
+#path=$data/$date
+path=$data/current
+current=$data/current
+
 site="https://proraftingtours.com"
 mkdir $path
 # wget -m $site -P $path -r
-httrack  $site -O $path  -%v
+# httrack  $site -O $path  -%v
 
-rm -r $data/current
-mkdir $data/current
-cp $path/* -r $data/current
+if [![ $path -ef $current ]]; then
+	rm -r $data/current
+	mkdir $data/current
+	cp $path/* -r $data/current
+fi
+
 cd $root
 
 git add .
