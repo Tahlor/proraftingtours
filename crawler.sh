@@ -22,12 +22,16 @@ current=$data/current
 site="https://proraftingtours.com"
 mkdir $path
 # wget -m $site -P $path -r
-httrack  $site -O $path  -%v
 
 if [[ ! $path -ef $current ]]; then
+	# Create a new mirror from scratch
+	httrack  $site -O $path  -%v 
 	rm -r $data/current
 	mkdir $data/current
 	cp $path/* -r $data/current
+else
+	# Update exisiting mirror
+	httrack  $site -O $path  -%v --update
 fi
 
 cd $root
