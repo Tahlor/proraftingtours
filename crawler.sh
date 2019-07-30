@@ -22,7 +22,7 @@ current=$data/current
 site="https://proraftingtours.com"
 mkdir $path
 # wget -m $site -P $path -r
-# httrack  $site -O $path  -%v
+httrack  $site -O $path  -%v
 
 if [[ ! $path -ef $current ]]; then
 	rm -r $data/current
