@@ -24,13 +24,14 @@ mkdir $path
 # wget -m $site -P $path -r
 # httrack  $site -O $path  -%v
 
-if [![ $path -ef $current ]]; then
+if [[ ! $path -ef $current ]]; then
 	rm -r $data/current
 	mkdir $data/current
 	cp $path/* -r $data/current
 fi
 
 cd $root
+
 
 git add .
 git commit -m "Update $date"
