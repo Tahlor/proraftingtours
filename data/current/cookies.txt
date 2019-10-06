@@ -1,6 +1,6 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
 proraftingtours.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
-proraftingtours.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	f38991bf2eef8c2e03e344070d08c8ad
-proraftingtours.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_7f73abf23e4fc37c9feae9869096167b	6e074b729014a380fef1a0855011b43f%7C%7C1570350861%7C%7C1570347261%7C%7Ce3e03f6b4e8764cc428bd72a7f8cfd5c
+proraftingtours.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	3ea2acf3be43dee04bd8d696ec72606a
+proraftingtours.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_7f73abf23e4fc37c9feae9869096167b	6e074b729014a380fef1a0855011b43f%7C%7C1570523660%7C%7C1570520060%7C%7Ca98d29858fc555d3ed9fc5173a3ce283
 
