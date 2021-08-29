@@ -36,7 +36,7 @@ fi
 
 cd $root
 
-
+rm /media/data/GitHub/personal_projects/proraftingtours/.git/index.lock
 git add .
 git commit -m "Update $date"
 git push
