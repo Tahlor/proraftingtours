@@ -1,6 +1,8 @@
 """ Notes:
 Password should be placed in password.txt in root directory (password cannot begin/end with whitespace)
 This can (probably) be deleted after first run and cookies are obtained
+
+
 """
 
 import requests

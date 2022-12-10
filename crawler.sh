@@ -5,6 +5,10 @@ cd $root
 data="$root/data"
 date=`date +"%Y-%m-%d"`
 
+
+depth=${1:-5}
+echo "Using depth of $depth"
+
 N=1
 
 # Increment $N as long as a directory with that name exists
@@ -25,23 +29,25 @@ mkdir $path
 
 if [[ ! $path -ef $current ]]; then
 	# Create a new mirror from scratch
-	httrack  $site -O $path  -%v 
+	httrack  $site -O $path  -%v --depth=$depth
 	rm -r $data/current
 	mkdir $data/current
 	cp $path/* -r $data/current
 else
 	# Update exisiting mirror
-	httrack  $site -O $path  -%v --update
+	httrack  $site -O $path  -%v --update --depth=$depth
 fi
 
 cd $root
 
-rm /media/data/GitHub/personal_projects/proraftingtours/.git/index.lock
+rm $GITHUB/proraftingtours/.git/index.lock
 git add .
 git commit -m "Update $date"
 git push
 
 cd $path
+
+
 # Submit to webarchive
 # Submit main page
 # curl -v "https://web.archive.org/save/$site"
