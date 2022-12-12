@@ -41,6 +41,7 @@ fi
 cd $root
 
 rm $GITHUB/proraftingtours/.git/index.lock
+echo $date > last_update
 git add .
 git commit -m "Update $date"
 git push
